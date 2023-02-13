@@ -1,5 +1,4 @@
 <script>
-<script type="text/javascript" src="DarkSynthwave/LUNC-Domains/JavascriptLUNC.js"></script>
   const form = document.querySelector("form");
   const domainNameInput = document.querySelector("#domain-name");
   const bidInput = document.querySelector("#bid");
